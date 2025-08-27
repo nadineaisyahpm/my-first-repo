@@ -1,1 +1,3 @@
-# my-first-repo
+Nama : Nadine Aisyah Putri Maharani
+NPM : 2406408224
+Kelas : PBP F
